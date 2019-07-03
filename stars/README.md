@@ -8,7 +8,7 @@ assets:
     - star_rating.flr
 ``` 
 
-- Use the Flare Actor widget.
+- Use the Flare Actor widget and specify path and animation name.
 ```
 child: FlareActor("assets/star_rating.flr",
         animation: "Start Rating",
