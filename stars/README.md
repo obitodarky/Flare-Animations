@@ -3,7 +3,8 @@
 ## How to use
 
 - Add to assets folder. Update your `pubspec.yaml` file.
-```assets:
+```
+assets:
     - star_rating.flr
 ``` 
 
