@@ -16,6 +16,10 @@ dependencies:
 See the Flare package for Flutter [here](https://pub.dev/packages/flare_flutter)
 
 - Add your animation in `assets` in `pubspec.yaml` file. Animations will have a `.flr` extension
+```
+assets:
+  - animation.flr
+```
 
 - Import packages from Flare
 ```
