@@ -26,9 +26,9 @@ assets:
 import 'package:flare_flutter/flare_actor.dart';
 ```
 
-- Add the path to your animation and the name of Animation as a child.
+- Using the FlareActor Widget, add the path to your animation and the name of Animation.
 ```
-child: FlareActor("assets/animation.flr",
+FlareActor("assets/animation.flr",
         animation: "Animation Name",
         fit: BoxFit.contain,
         )
